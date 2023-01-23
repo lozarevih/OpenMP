@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\kruzhkovParProg\ParProg\ParProg\Source.cpp(5,5): warning C4101: i: неиспользованная локальная переменная
+  ParProg.vcxproj -> C:\kruzhkovParProg\ParProg\x64\Debug\ParProg.exe
